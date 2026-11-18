@@ -10,13 +10,13 @@
 
 ## Repository status
 
-The inspected main repository is currently empty. No source code, application entry point, dependency manifest, build configuration, or runnable release is available in this repository snapshot.
+The current main branch contains this initial documentation only. No application source code, entry point, dependency manifest, build configuration, or runnable release has been added yet.
 
-This README establishes the repository's purpose without claiming features or a technology stack that has not yet been added.
+This README establishes the repository's intended direction without claiming features or a technology stack that has not been implemented.
 
 ## Planned documentation
 
-When an initial implementation is committed, this document should be expanded with:
+When an initial implementation is committed, expand this document with:
 
 - Product purpose and target audience.
 - Implemented features and supported platforms.
