@@ -14,6 +14,19 @@ The current main branch contains this initial documentation only. No application
 
 This README establishes the repository's intended direction without claiming features or a technology stack that has not been implemented.
 
+## Repository development flow
+
+There is no application workflow to diagram yet because the repository does not contain an implementation. The following is a documentation roadmap, not a description of existing functionality.
+
+```mermaid
+flowchart LR
+    A["Define product scope"] --> B["Choose supported platforms"]
+    B --> C["Implement the first usable feature"]
+    C --> D["Add setup and configuration"]
+    D --> E["Test and document behavior"]
+    E --> F["Prepare a verifiable release"]
+```
+
 ## Planned documentation
 
 When an initial implementation is committed, expand this document with:
